@@ -27,7 +27,7 @@ const App = () => {
           openMenuButtonColor="#000"
           changeMenuColorOnOpen={true}
           colors={["#B19EEF", "#5227FF"]}
-          logoUrl="/src/assets/logo.png"
+          logoUrl="./assets/logo.png"
           accentColor="#ff6b6b"
           onMenuOpen={() => console.log("Menu opened")}
           onMenuClose={() => console.log("Menu closed")}
