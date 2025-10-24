@@ -442,7 +442,7 @@ export const StaggeredMenu = ({
             }}
           >
             <img
-              src={logoUrl || "/src/assets/logo.png"}
+              src={logoUrl || "../assets/logo.png"}
               alt="Logo"
               className="sm-logo-img block h-8 w-auto object-contain rounded-full"
               draggable={false}
